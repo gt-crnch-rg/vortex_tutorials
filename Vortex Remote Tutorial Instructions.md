@@ -2,6 +2,9 @@
 
 We suggest that you use the Open OnDemand terminal interface hosted by the CRNCH Rogues Gallery if you are not able to download and use the local VM Image. 
 
+### Selecting a username
+Please use the [spreadsheet here](https://bit.ly/3LB5HRA) to reserve a username to use for the duration of the tutorial. The organizers will share a password with you for your particular username.  
+
 ### OOD Terminal Login
 
 1) Log into [rg-ood.crnch.gatech.edu](https://rg-ood.crnch.gatech.edu) with your GT username and password. For a tutorial, this will be provided to you along with a temporary password.

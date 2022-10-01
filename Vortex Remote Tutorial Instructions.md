@@ -32,6 +32,16 @@ We suggest that you use the Open OnDemand terminal interface hosted by the CRNCH
 
 ![Vortex Delete](https://github.com/gt-crnch-rg/vortex_tutorials/blob/e5d2e761b635bdaa372ae5f17cc0c7adce6fb536/figs/vortex_tutorial_delete.PNG "OOD Vortex Delete")
 
+### Tutorial and Environment Setup
+
+Once you log in, your environment should already be set up. However, if you need to reinitialize your environment you can run the environment setup script.
+
+```
+$ . micro-tutorial-2022/set_vortex_env.sh
+```
+
+The tutorial repo is located under `~/micro-tutorial-2022/vortex_tutorials`. 
+
 
 ### Troubleshooting
 
